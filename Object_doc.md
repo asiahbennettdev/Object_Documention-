@@ -140,6 +140,10 @@
 
 ### Example: You might have a base Animal class with methods that allow animals to eat and sleep. Then, your Dog class inherits the eat and sleep methods from its Animal parent class while also defining its own methods like bark and be_undyingly_loyal.
 
+### What are the four types of Inheritence? 
+### Single Inheritence, Multi- Level Inheritence, Multiple Inheritence, and Heirarcial Inheritence
+
+
 ### Why is inheritance important?
 
 ### It helps build reusable and modular components of software applications because we can inherit from and extend the parent class in many different ways.
